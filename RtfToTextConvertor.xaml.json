@@ -1,0 +1,31 @@
+{
+  "DisplayName": "RtfToTextConvertor",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_fileInput",
+      "DisplayName": "in_fileInput",
+      "Category": null,
+      "Tooltip": "RTF File Input Path",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_outputFolder",
+      "DisplayName": "in_outputFolder",
+      "Category": null,
+      "Tooltip": "Folder, where should be new txt file created. File will have the same name as input rtf file.",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "DataSourceItems": null
+    }
+  ]
+}

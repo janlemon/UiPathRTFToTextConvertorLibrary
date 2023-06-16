@@ -1,0 +1,17 @@
+DENNÍ POČTY OBJEDNÁVEK - Jídelna
+Pátek 02.06.2023|
+|OBĚD|
+|Hlavní jídla PECHA:|1.|Smažený kuřecí řízek, vařené brambory, okurka|64|
+||2.|Vepřové kostky dušené na kmíně, italské těstoviny|10|
+||3.|Kuskus salát s pečenou zeleninou a sýrem feta|5|
+||4.|Uzená krkovice, křenová omáčka, houskové knedlíky|7|
+CELKEM:|86|
+|Hlavní jídla ARTABAN:|1.|Smažený kuřecí řízek s bramborem a citronem|12|
+||2.|Bílá fazolová, Smažený kuřecí řízek s bramborem a citronem|7|
+||3.|Kuřecí rizoto se znojemskou okurkou|5|
+||4.|Bílá fazolová, Kuřecí rizoto se znojemskou okurkou|3|
+||5.|   ---|-|
+||6.|   ---|-|
+CELKEM:|27|
+
+ |
